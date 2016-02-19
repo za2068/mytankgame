@@ -1,0 +1,31 @@
+﻿生成启动时间为 2014/10/19 10:57:07。
+     1>项目“E:\projects\test1\test1\test1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\visual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Administrator\Desktop\源.cpp" "C:\Users\Administrator\Desktop\源1.cpp"
+         源1.cpp
+     1>c:\users\administrator\desktop\源1.cpp(2): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>c:\users\administrator\desktop\源1.cpp(2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\administrator\desktop\源1.cpp(2): error C2146: 语法错误: 缺少“;”(在标识符“Sokoban”的前面)
+     1>c:\users\administrator\desktop\源1.cpp(2): error C2086: “int Sokoban”: 重定义
+                 c:\users\administrator\desktop\源1.cpp(2) : 参见“Sokoban”的声明
+     1>c:\users\administrator\desktop\源1.cpp(3): error C2146: 语法错误: 缺少“;”(在标识符“Use_Sokoban”的前面)
+     1>c:\users\administrator\desktop\源1.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\administrator\desktop\源1.cpp(3): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>c:\users\administrator\desktop\源1.cpp(4): error C2146: 语法错误: 缺少“;”(在标识符“请用VC6（别编译器的也行）先运行Use_Sokoban”的前面)
+     1>c:\users\administrator\desktop\源1.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\administrator\desktop\源1.cpp(4): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>d:\program files\visual studio 2012\vc\include\sal.h(2367): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\program files\visual studio 2012\vc\include\sal.h(2367): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\users\administrator\desktop\源1.cpp(59): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>c:\users\administrator\desktop\源1.cpp(59): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\administrator\desktop\源1.cpp(59): error C2086: “int Sokoban”: 重定义
+                 c:\users\administrator\desktop\源1.cpp(2) : 参见“Sokoban”的声明
+     1>c:\users\administrator\desktop\源1.cpp(61): fatal error C1083: 无法打开包括文件:“Sokoban.h”: No such file or directory
+         源.cpp
+     1>c:\users\administrator\desktop\源.cpp(2): fatal error C1083: 无法打开包括文件:“graphics.h”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“E:\projects\test1\test1\test1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.52
